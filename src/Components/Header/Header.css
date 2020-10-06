@@ -1,0 +1,45 @@
+header {
+    padding: 0 20px;
+    border-bottom: rgb(159, 159, 159) solid 1px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #FA3D02;
+}
+
+h1 {
+    margin: 0;
+    padding: 10px;
+}
+
+header div a {
+    text-decoration: none;
+    color: #FA3D02;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 0 10px;
+}
+
+header div a:hover {
+    border-bottom: solid 4px #FA3D02;
+    margin-bottom: -4px;
+}
+
+nav {
+    padding: 10px 30px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    border-bottom: rgb(159, 159, 159) solid 1px
+}
+
+nav a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+
+nav a:hover {
+    border-bottom: solid 4px #FA3D02;
+    margin-bottom: -4px;
+}
