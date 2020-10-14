@@ -1,0 +1,9 @@
+.product {
+    display: inline-block;
+}
+
+.thumbnail {
+    height: 240px;
+    width: 180px;
+    margin: 0 20px;
+}
